@@ -1,0 +1,22 @@
+{
+  "base_price": 1295,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "--High-Volume, Active targets--\n\nPopular restaurants sitting in the Top 30% of their local market for proven foot traffic and review volume within the last 90 days and a market scope of 1km.\n\nThese are the highest-velocity, actively transacting accounts for payment processing, POS systems, and supply chain sales.\n\nValidated by an \"Active Heartbeat\" signal.",
+  "config_name": "Top 30% Active Restaurant Review Whales in Portland-Vancouver-Hillsboro, OR-WA Metro Area, US",
+  "export_job_id": "5901e38d-2d36-477d-8c08-6cc238e51804",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 555149,
+  "location_name": "Portland-Vancouver-Hillsboro, OR-WA",
+  "location_type": "metro",
+  "repo_name": "top-30-active-restaurant-review-whales-in-portland-vancouver-hillsboro-or-wa-metro-sample-555149",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/555149/beamstation_555149_restaurants-us-portlandvancouverhillsboroorwa_SAMPLE_DIST.csv",
+  "sample_pct": 1.04,
+  "sample_records": 10,
+  "sample_sha256": "f4d1c295030ee058fd7bc1b74a5de58a90fd4173f4637d4430d03106c2aca2fe",
+  "sample_size_bytes": 58298,
+  "total_records": 960,
+  "updated_at": "2026-03-31T23:39:56.220689+00:00"
+}
