@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Review Whales in Portland-Vancouver-Hillsboro, OR-WA Metro Area, US
 
-> Free BeamStation sample export with 90 rows and masked direct-contact fields.
+> Free BeamStation sample export with 83 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `555149` |
 | Location | Portland-Vancouver-Hillsboro, OR-WA |
 | Category | Restaurants |
-| Full dataset size | 904 records |
-| Free sample size | 90 records (9.96%) |
-| Last export | 2026-04-15T01:12:26.935461+00:00 |
+| Full dataset size | 835 records |
+| Free sample size | 83 records (9.94%) |
+| Last export | 2026-04-22T05:42:50.247238+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-review-whales-in-portland-vancouver-hillsboro-or-wa-metro-sample-555149/releases/download/sample-latest/beamstation_555149_restaurants-us-portlandvancouverhillsboroorwa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
