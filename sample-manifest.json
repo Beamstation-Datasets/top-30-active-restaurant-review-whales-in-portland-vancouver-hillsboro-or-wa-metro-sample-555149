@@ -1,12 +1,12 @@
 {
-  "export_job_id": "d21619bd-b0a7-49e4-9dad-f69ff5ebdd1d",
+  "export_job_id": "cc7a3f8a-f090-44bc-adcc-c3f06317654e",
   "id_short": 555149,
-  "published_at": "2026-04-22T07:39:17Z",
+  "published_at": "2026-04-29T19:03:22Z",
   "repo_name": "top-30-active-restaurant-review-whales-in-portland-vancouver-hillsboro-or-wa-metro-sample-555149",
   "sample_asset_name": "beamstation_555149_restaurants-us-portlandvancouverhillsboroorwa_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/555149/beamstation_555149_restaurants-us-portlandvancouverhillsboroorwa_SAMPLE_DIST.csv",
-  "sample_records": 83,
-  "sample_sha256": "e8eaca02388b73d3230b121fc3aa0e675b6aabdeebd8dfd5149a079824d82484",
-  "sample_size_bytes": 334783,
-  "total_records": 835
+  "sample_records": 173,
+  "sample_sha256": "772e7b6fadaca2ee1b4216342ef22418db27d928fd3638d71f94e14b52b9ee17",
+  "sample_size_bytes": 678992,
+  "total_records": 1736
 }
